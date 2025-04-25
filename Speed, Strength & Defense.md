@@ -1,7 +1,6 @@
 # Bruce Lee-Inspired Training Program for Speed, Strength & Defense
 
 > *Key Program Overview*
-> - Customized for: Height 155cm, Weight 48kg, Age 18
 > - Focus Areas: Speed development, defensive techniques, body conditioning
 > - Training Duration: 8-week progressive program
 > - Equipment Needed: Minimal (primarily bodyweight exercises)
